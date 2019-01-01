@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: zhengrong
+logging:
+  config: classpath:logback-boot.xml
+sign:
+  key: ebei_message_sign_key
+
+

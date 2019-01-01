@@ -1,0 +1,30 @@
+# 开发环境
+server:
+  port: 8080
+spring:
+#====================Mongodb配置 ====================
+  mongodb:
+    host: 172.16.1.56
+    port: 27017
+    user:
+    password:
+    database: message
+    authentification: false
+
+alisms:
+  accessKeyId: 111
+  accessKeySecret: 1111
+  template:
+    ywrz: {signName: 111,templateCode: 111}
+
+emay:
+  cdkey: 8SDK-EMY-6699-SBTQK
+  password: 8F2FE6CB3D187F3B3248B9D8C74BA879
+  
+linkws:
+  corpID: BJJT000535
+  pwd: lu123@
+
+
+
+

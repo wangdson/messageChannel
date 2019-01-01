@@ -5,3 +5,6 @@
 **/src/main/resource/**
 
 .idea
+.idea/**
+**/.idea
+**/.idea/**
