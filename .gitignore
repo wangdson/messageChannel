@@ -1,0 +1,7 @@
+# 编译文件
+**/target
+
+# 配置文件
+**/src/main/resource/**
+
+.idea
